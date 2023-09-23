@@ -1,5 +1,4 @@
 import { EmptyView, Header } from '@/components';
-
 import styles from './App.module.scss';
 
 function App() {
@@ -12,5 +11,4 @@ function App() {
 		</div>
 	);
 }
-
 export default App;
